@@ -1,13 +1,13 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/test/',
+    siteUrl: 'https://stampang.github.io/test/',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://hasura.io/learn/',
+    logo: 'https://stampang.com/main/assets/images/common/bg_logo.png',
+    logoLink: 'https:/stampang.com',
     title:
       "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
@@ -27,10 +27,10 @@ const config = {
 		      </div>
 		    </a>
 		  </li>`,
-    links: [{ text: '', link: '' }],
+    links: [{ text: '스탬프팡 홈페이지1', link: 'https://stampang.com' }],
     search: {
-      enabled: false,
-      indexName: '',
+      enabled: true,
+      indexName: 'Stampang',
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
       algoliaAdminKey: process.env.ALGOLIA_ADMIN_KEY,
@@ -62,7 +62,7 @@ const config = {
     manifest: {
       name: 'Gatsby Gitbook Starter',
       short_name: 'GitbookStarter',
-      start_url: '/',
+      start_url: '/test',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
       display: 'standalone',
