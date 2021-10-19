@@ -1,33 +1,43 @@
+// https://github.com/hasura/gatsby-gitbook-starter
+
 const config = {
   gatsby: {
-    pathPrefix: '/test/',
-    siteUrl: 'https://stampang.github.io/test/',
+    pathPrefix: '/',
+    siteUrl: 'https://stampang.github.io/',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
     logo: 'https://stampang.com/main/assets/images/common/bg_logo.png',
-    logoLink: 'https:/stampang.com',
+    logoLink: '/',
     title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      "가이드",
+    githubUrl: '',
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
+		    <a href="https://blog.naver.com/spangman" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
+		        <img src='https://stampang.com/main/assets/images/common/bg_sns_ico02.png' alt={'Naver Blog'}/>
 		      </div>
 		    </a>
 		  </li>
 			<li>
-		    <a href="https://discordapp.com/invite/hasura" target="_blank" rel="noopener">
+		    <a href="https://www.facebook.com/makestampang" target="_blank" rel="noopener">
 		      <div class="discordBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
+		        <img src='https://stampang.com/main/assets/images/common/bg_sns_ico01.png' alt={'Facebook'}/>
 		      </div>
 		    </a>
-		  </li>`,
-    links: [{ text: '스탬프팡 홈페이지1', link: 'https://stampang.com' }],
+		  </li>
+      <li>
+      <a href="https://www.instagram.com/stampang/" target="_blank" rel="noopener">
+        <div class="discordBtn">
+          <img src='https://stampang.com/main/assets/images/common/bg_sns_ico03.png' alt={'Instagram'}/>
+        </div>
+      </a>
+    </li>      
+      `,
+    links: [{ text: '스탬프팡', link: 'https://stampang.com' }],
     search: {
       enabled: true,
       indexName: 'Stampang',
@@ -38,24 +48,29 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/', // add trailing slash if enabled above
+      // '/wpos'
+      // '/codeblock',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      // '/wpos'
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [{ text: '스탬프팡', link: 'https://stampang.com' },
+    { text: '스탬프팡 사장님', link: 'https://ceo.stampang.com' },
+    { text: '가맹점 관리자', link: 'https://stampang.com/store2/login' },
+    
+  ],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+      "<div class='greenCircle'></div>목차",
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Boilerplate | Hasura',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: '스탬프팡 가이드',
+    description: '스탬프팡 가이드',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    docsLocation: '',
+    favicon: 'https://stampang.com/main/images/favicon.ico',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
