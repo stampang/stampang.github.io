@@ -6,7 +6,7 @@ metaDescription: "포스 프린터 드라이버 설치"
 
 # 빅슬론
 
-![빅슬론](img/bixolon.png '#height=300px')
+![빅슬론](img/bixolon.png '#height=300px;width=300px')
 
 https://kr.bixolon.com
 
