@@ -31,6 +31,13 @@ const plugins = [
           }
         },
         {
+          resolve:"gatsby-remark-image-attributes",
+          options:{
+            dataAttributes : false,
+          }
+
+        },
+        {
           resolve: 'gatsby-remark-copy-linked-files'
         }
       ],
