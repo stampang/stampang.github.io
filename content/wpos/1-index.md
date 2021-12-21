@@ -14,4 +14,7 @@ metaDescription: "스탬프팡 포스 오류 해결방법"
 - 컴퓨터를 재부팅시켜줍니다.
 
 ## 실시간페이지에서 주문내역이 보이지 않습니다. (Win7 이하)
-[다운로드](root_update.zip) 하여 압축을 풀고 Cert_Updater_v1.6.exe를 실행합니다. (재부팅 필수)
+- [다운로드](root_update.zip) 하여 압축을 풀고 Cert_Updater_v1.6.exe를 실행합니다. (재부팅 필수)
+
+## MSVCP140.dll 파일이 없다고 나옵니다.
+- 32bit [다운로드](vc_redist.x86.exe) / 64bit [다운로드](vc_redist.x64.exe) 하여 설치합니다.
