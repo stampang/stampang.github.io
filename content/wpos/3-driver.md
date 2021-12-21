@@ -7,7 +7,7 @@ metaDescription: "포스 프린터 드라이버 설치"
 # 빅슬론 
 https://kr.bixolon.com
 
-<img src="img/bixolon.png" width="200" height="200"/>
+![빅슬론](img/bixolon.png '#height=200px;width=200px')
 
 ### 가상 포트 드라이버(USB)
 
@@ -22,15 +22,15 @@ https://www.posbanksolutions.com/customer-service/support-drivers.html
 
 ### 가상 포트 드라이버(USB)
 
-<img src="img/posbank-A11-receipt-printer-white_006.jpg" width="200" height="200"/> 
+![A11](img/posbank-A11-receipt-printer-white_006.jpg '#height=200px;width=200px')
 
 [A11 Prime COM->USB](download/POSBANK%20VCOM4USB%20Driver_V1.0.2.zip)
 
-<img src="img/POSBANK_A8_PRINT_IMAGE_DARKGRAY_005.png" width="200" height="200"/> 
+![A8](img/POSBANK_A8_PRINT_IMAGE_DARKGRAY_005.png '#height=200px;width=200px')
 
 [A8 Virtual COM](download/A8_MiniPrinter_VirtualCOM_v1.1.0_en.exe)
 
-<img src="img/posbank-A7-receipt-printer-004.jpg" width="200" height="200"/> 
+![A7](img/posbank-A7-receipt-printer-004.jpg '#height=200px;width=200px')
 
 [A7 Virtual COM](download/A7_MiniPrinter_VirtualCOM_v1.1.0_en.exe)
 
@@ -39,7 +39,7 @@ https://www.posbanksolutions.com/customer-service/support-drivers.html
 
 https://www.miniprinter.com/ko/cscenter/download.do
 
-<img src="img/0707ad7a-7572-4eaa-8a75-538a4bc07216.jpg" width="200" height="200"/>
+![SLK-TS100](img/0707ad7a-7572-4eaa-8a75-538a4bc07216.jpg '#height=200px;width=200px')
 
 [SLK-TS100](download/SEWOOPrinterDriverSetupV7.17.zip)
 
@@ -47,7 +47,7 @@ https://www.miniprinter.com/ko/cscenter/download.do
 
 https://www.okpos.co.kr/customer/customer_0303.php
 
-<img src="img/okpos.jpg" width="200" height="200"/>
+![OK30](img/okpos.jpg '#height=200px;width=200px')
 
 [OK30](download/VirtualCOM[1.41].zip)
 
