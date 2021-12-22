@@ -1,7 +1,7 @@
 ---
 title: "프린터 드라이버 설치"
-metaTitle: "포스 프린터 드라이버 설치"
-metaDescription: "포스 프린터 드라이버 설치"
+metaTitle: "프린터 드라이버 설치"
+metaDescription: "프린터 드라이버 설치"
 ---
 
 # 빅슬론 
