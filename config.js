@@ -11,31 +11,32 @@ const config = {
     logo: 'https://stampang.com/main/assets/images/common/bg_logo.png',
     logoLink: '/',
     title:
-      "이용가이드",
+      "", //이용가이드
     githubUrl: '',
     helpUrl: '',
     tweetText: '',
-    social: `<li>
-		    <a href="https://blog.naver.com/spangman" target="_blank" rel="noopener">
-		      <div class="twitterBtn">
-		        <img src='https://stampang.com/main/assets/images/common/bg_sns_ico02.png' alt={'Naver Blog'}/>
-		      </div>
-		    </a>
-		  </li>
-			<li>
-		    <a href="https://www.facebook.com/makestampang" target="_blank" rel="noopener">
-		      <div class="discordBtn">
-		        <img src='https://stampang.com/main/assets/images/common/bg_sns_ico01.png' alt={'Facebook'}/>
-		      </div>
-		    </a>
-		  </li>
-      <li>
+    social: `
+    <li>
+      <a href="https://blog.naver.com/spangman" target="_blank" rel="noopener">
+        <div class="twitterBtn">
+          <img src='https://stampang.com/main/assets/images/common/bg_sns_ico02.png' alt={'Naver Blog'}/>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/makestampang" target="_blank" rel="noopener">
+        <div class="discordBtn">
+          <img src='https://stampang.com/main/assets/images/common/bg_sns_ico01.png' alt={'Facebook'}/>
+        </div>
+      </a>
+    </li>
+    <li>
       <a href="https://www.instagram.com/stampang/" target="_blank" rel="noopener">
         <div class="discordBtn">
           <img src='https://stampang.com/main/assets/images/common/bg_sns_ico03.png' alt={'Instagram'}/>
         </div>
       </a>
-    </li>      
+    </li>
       `,
     links: [{ text: '🏠 스탬프팡', link: 'https://stampang.com' }],
     search: {
@@ -57,7 +58,7 @@ const config = {
     ],
     links: [{ text: '🏠 스탬프팡', link: 'https://stampang.com' },
     { text: '🏠 스탬프팡 사장님', link: 'https://ceo.stampang.com' },
-    { text: '🌐 가맹점 관리자', link: 'https://stampang.com/store2/login' },
+    { text: '🏠 가맹점 관리자', link: 'https://stampang.com/store2/login' },
     
   ],
     frontline: false,

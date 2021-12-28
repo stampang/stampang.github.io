@@ -6,5 +6,5 @@ title: "1) 스탬프팡"
 
 # 스탬프팡
 
-[주문/적립 포스 다운로드](/spang/posdown)
+- [주문/적립 포스 다운로드](/spang/posdown)
 

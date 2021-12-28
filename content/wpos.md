@@ -6,6 +6,6 @@ title: "2) 윈도우 포스"
 
 # 윈도우 포스
 
-[포스 오류 해결방법](/wpos/help)
+- [포스 오류 해결방법](/wpos/help)
 
-[프린터 드라이버 설치](/wpos/driver)
+- [프린터 드라이버 설치](/wpos/driver)
