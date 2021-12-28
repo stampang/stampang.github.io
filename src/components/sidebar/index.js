@@ -46,8 +46,8 @@ const ListItem = styled(({ className, active, level, ...props }) => {
 `;
 
 const Sidebar = styled('aside')`
-  width: 100%;
-  height: 100vh;
+  //width: 100%;
+  //height: 100vh;
   overflow: auto;
   position: fixed;
   padding-left: 0px;
