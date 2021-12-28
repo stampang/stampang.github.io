@@ -11,7 +11,7 @@ const config = {
     logo: 'https://stampang.com/main/assets/images/common/bg_logo.png',
     logoLink: '/',
     title:
-      "가이드",
+      "이용가이드",
     githubUrl: '',
     helpUrl: '',
     tweetText: '',
@@ -37,7 +37,7 @@ const config = {
       </a>
     </li>      
       `,
-    links: [{ text: '🏠스탬프팡', link: 'https://stampang.com' }],
+    links: [{ text: '🏠 스탬프팡', link: 'https://stampang.com' }],
     search: {
       enabled: true,
       indexName: 'Stampang',
@@ -55,9 +55,9 @@ const config = {
     collapsedNav: [
       // '/wpos'
     ],
-    links: [{ text: '🏠스탬프팡', link: 'https://stampang.com' },
-    { text: '🏠스탬프팡 사장님', link: 'https://ceo.stampang.com' },
-    { text: '🌐가맹점 관리자', link: 'https://stampang.com/store2/login' },
+    links: [{ text: '🏠 스탬프팡', link: 'https://stampang.com' },
+    { text: '🏠 스탬프팡 사장님', link: 'https://ceo.stampang.com' },
+    { text: '🌐 가맹점 관리자', link: 'https://stampang.com/store2/login' },
     
   ],
     frontline: false,
