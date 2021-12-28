@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const Sidebar = styled('aside')`
   //width: 100%;
   border-right: 1px solid #ede7f3;
-  height: 100vh;
+  //height: 100vh;
   overflow: auto;
   position: fixed;
   padding-left: 24px;
@@ -47,7 +47,7 @@ export const Sidebar = styled('aside')`
   }
 
   @media only screen and (max-width: 50rem) {
-    width: 100%;
+    //width: 100%;
     position: relative;
   }
 `;
