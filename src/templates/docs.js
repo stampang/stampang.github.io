@@ -96,7 +96,7 @@ export default class MDXRuntimeTest extends Component {
           <MDXRenderer>{mdx.body}</MDXRenderer>
         </StyledMainWrapper>
         <div className={'addPaddTopBottom'}>
-          <NextPrevious mdx={mdx} nav={nav} />
+          {/* <NextPrevious mdx={mdx} nav={nav} /> */}
         </div>
       </Layout>
     );

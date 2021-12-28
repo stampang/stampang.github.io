@@ -1,7 +1,7 @@
 ---
 metaTitle: "스탬프팡 이용 가이드"
 metaDescription: "스탬프팡 이용 가이드"
-title: "스탬프팡"
+title: "1) 스탬프팡"
 ---
 
 # 스탬프팡
