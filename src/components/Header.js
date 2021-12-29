@@ -110,7 +110,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
             </div>
             {config.header.social ? (
               <ul
-                className="socialWrapper visibleMobileView"
+                className="socialWrapper visibleMobileView" // navBarNav visibleMobileView
                 dangerouslySetInnerHTML={{ __html: config.header.social }}
               ></ul>
             ) : null}
@@ -125,7 +125,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 <hr />
               </div>
               <ul className={'navBarUL navBarNav navBarULRight'}>
-                {headerLinks.map((link, key) => {
+                {/*headerLinks.map((link, key) => {
                   if (link.link !== '' && link.text !== '') {
                     return (
                       <li key={key}>
@@ -139,7 +139,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                       </li>
                     );
                   }
-                })}
+                })*/}
                 {helpUrl !== '' ? (
                   <li>
                     <a href={helpUrl}>
