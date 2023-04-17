@@ -1,7 +1,7 @@
 ---
 metaTitle: "스탬프팡 이용 가이드"
-metaDescription: "포스 오류 해결 방법"
-title: "포스 오류 해결 방법"
+metaDescription: "자주 묻는 질문"
+title: "자주 묻는 질문"
 ---
 
 # 서버 연결이 되지 않습니다.

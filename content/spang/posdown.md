@@ -23,4 +23,6 @@ title: "프로그램 다운로드"
 > [다운로드](https://stampang.com/download/update/StampangOrderX_22.exe)
 
 # 적립 포스
-> [다운로드](https://ceo.stampang.com/static/download/StampangPos.exe)
+> [다운로드](https://stampang.com/download/StampangPos2.exe)
+<!-- > [다운로드](https://ceo.stampang.com/static/download/StampangPos.exe) -->
+

@@ -1,15 +1,17 @@
 ---
 metaTitle: "스탬프팡 이용 가이드"
 metaDescription: "스탬프팡 이용 가이드"
-title: "스탬프팡 이용 가이드"
+title: "스탬프팡"
 ---
 
 # 스탬프팡
 
 - [주문/적립 포스 다운로드](/spang/posdown)
 
+- [주문 포스 이용 가이드](https://smallbiz.notion.site/POS_-3a508d090cbd4545aa0e41af4bcd12f2)
+
 # 윈도우 포스
 
-- [포스 오류 해결방법](/wpos/help)
+- [자주 묻는 질문](/wpos/help)
 
 - [프린터 드라이버 설치](/wpos/driver)

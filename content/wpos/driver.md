@@ -35,6 +35,8 @@ title: "프린터 드라이버 설치"
 
 - [A7 Virtual COM](download/A7_MiniPrinter_VirtualCOM_v1.1.0_en.exe)
 
+- [A5 Virtual COM](download/A5.exe)
+
 
 # 세우테크
 
